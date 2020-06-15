@@ -1,0 +1,2 @@
+# imageClasificationWithBOF
+classify 
