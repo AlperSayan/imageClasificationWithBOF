@@ -8,7 +8,7 @@ from sklearn import svm
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import confusion_matrix, accuracy_score
 
-# Mustafa Alper Sayan S015674 Department Computer Science
+
 # this algorithm takes 15 minutes to finish for k-means train and tests, and 15 minutes for mean shift train and tests
 # totaling 30 minutes run time
 # when run plots confusion matrix and visual vocabulary histogram
